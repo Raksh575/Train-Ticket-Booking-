@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # RailBook — Train Ticket Booking System (Full Stack)
 
 A basic full-stack train ticket booking project:
@@ -105,3 +106,7 @@ curl -X POST http://localhost:5000/api/bookings \
 - No authentication is included (basic scope) — bookings are looked up by email only.
 - Seat allocation is by count only (no seat-number/coach selection).
 - To add login, an admin dashboard, or payment simulation later, the schema and routes here are structured so those can be layered on without a rewrite.
+=======
+# Agent-train-ticket-booking
+A simple, user-friendly Train Ticket Booking web application built to simulate railway reservations and passenger management.
+>>>>>>> 4b13d72a4a8de3fcd187f3a763314251e504262a
